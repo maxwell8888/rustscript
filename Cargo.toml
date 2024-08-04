@@ -1,0 +1,15 @@
+[package]
+name = "rustscript"
+version = "0.0.0"
+edition = "2021"
+authors = ["Max Unsted"]
+description = "Coming soon"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/maxwell8888/rustscript"
+homepage = "https://github.com/maxwell8888/rustscript"
+documentation = "https://docs.rs/rustscript/latest/rustscript/"
+keywords = []
+rust-version = "1.60.0"
+publish = true
+
+[dependencies]
